@@ -1,0 +1,11 @@
+/Users/ryanpitts/Projects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.0/CSharpTutorial
+/Users/ryanpitts/Projects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.0/CSharpTutorial.deps.json
+/Users/ryanpitts/Projects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.0/CSharpTutorial.runtimeconfig.json
+/Users/ryanpitts/Projects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.0/CSharpTutorial.runtimeconfig.dev.json
+/Users/ryanpitts/Projects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.0/CSharpTutorial.dll
+/Users/ryanpitts/Projects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.0/CSharpTutorial.pdb
+/Users/ryanpitts/Projects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.0/CSharpTutorial.csprojAssemblyReference.cache
+/Users/ryanpitts/Projects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.0/CSharpTutorial.AssemblyInfoInputs.cache
+/Users/ryanpitts/Projects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.0/CSharpTutorial.AssemblyInfo.cs
+/Users/ryanpitts/Projects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.0/CSharpTutorial.dll
+/Users/ryanpitts/Projects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.0/CSharpTutorial.pdb
